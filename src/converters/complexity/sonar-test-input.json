@@ -1,0 +1,58 @@
+{
+  "paging": {
+    "pageIndex": 1,
+    "pageSize": 100,
+    "total": 3940
+  },
+  "baseComponent": {
+    "id": "2c154fff-a74e-46a0-934a-de367882d44b",
+    "key": "pl.com.example:example",
+    "name": "example",
+    "qualifier": "TRK",
+    "measures": []
+  },
+  "components": [
+    {
+      "id": "90a1f0e2-d4ab-427f-8123-984d80341a1e",
+      "key": "pl.com.example:example:src/main/java/pl/com/example/entity/Client.java",
+      "name": "Client.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/pl/com/example/entity/Client.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "229"
+        }
+      ]
+    },
+    {
+      "id": "29b438b0-b64e-4d1b-84d4-dc23f97aee25",
+      "key": "pl.com.example:example:src/main/java/pl/com/example/dtos/SimulationDTO.java",
+      "name": "SimulationDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/pl/com/example/dtos/SimulationDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "202"
+        }
+      ]
+    },
+    {
+      "id": "5b8ee0a7-e10f-40b2-b417-ef35e8123b85",
+      "key": "pl.com.example:example:src/main/java/pl/com/example/dtos/SomeDTO.java",
+      "name": "SomeDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/pl/com/example/dtos/SomeDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "51"
+        }
+      ]
+    }
+  ]
+}

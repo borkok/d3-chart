@@ -1,0 +1,5 @@
+[
+  {"churn": 10, "filename": "SomeModel.java"},
+  {"churn": 9, "filename": "QuiteDifferentStrategy.java"},
+  {"churn": 8, "filename": "QuiteDifferentStrategyTest.java"}
+]
